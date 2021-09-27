@@ -1,2 +1,2 @@
 # To-Do-List
-It is todo list app
+Its a todo list app
